@@ -6,7 +6,13 @@
 /*   By: mjose-ye <mjose-ye@student.42sp.org.br>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/02/15 12:57:43 by mjose-ye          #+#    #+#             */
-/*   Updated: 2022/02/15 12:57:47 by mjose-ye         ###   ########.fr       */
+/*   Updated: 2022/02/16 13:59:09 by mjose-ye         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
+#include "minishell.h"
+
+int	main(void)
+{
+	printf("hello world");
+}
